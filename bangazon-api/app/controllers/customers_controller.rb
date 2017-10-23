@@ -6,6 +6,13 @@ class CustomersController < ApplicationController
     @customers = Customer.all
 
     render json: @customers
+
+    if params['active'] == false
+      render json: 
+   
+    end
+
+
   end
 
   # GET /customers/1
