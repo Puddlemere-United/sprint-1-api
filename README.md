@@ -16,15 +16,18 @@ These will be installed once you run bundle install.
 ### Installing
 
 How to run the api:
-1.Fork the repo.
-1.Open it in terminal and CD into the directory
-1.Clone repo
-1.Run bundle install.
-1.Run rails db:migrate.
-1.Run rails server.
-1.Go to schema.rb and find path to add dummy data (this should be appended to the localhost url - ex: localhost:3000/orders).
-1.At this point you are on your own. 
 
+1. Fork the repo.
+2. Open it in terminal and CD into the directory
+3. Clone repo
+4. Run bundle install.
+5. Run rails db:migrate.
+6. Run rails server.
+7. Go to schema.rb and find path to add dummy data (this should be appended to the localhost url - ex: localhost:3000/orders).
+8. At this point you are on your own. 
+
+### Endpoints
+To view all endpoints, [click here!](Endpoints.md)
 
 ## Authors
 
@@ -32,4 +35,4 @@ LaKeshia Johnson, Jordan Berghofer, Tyler Barnett, Nora Moser
 
 ## Acknowledgments
 
-* Thank you to Casey and Jisie
+* Thank you to Casey Dailey and Jisie David
