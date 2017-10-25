@@ -60,6 +60,11 @@ If you feel the need to contribute to this project, follow the steps below:
 
 ## Issue Reporting
 
+1. To report an issue, click the Issue tab within this repository on Github.
+1. Click 'New issue'
+1. Create an issue ticket clearly summarizing the issue in the Title field, and giving steps to recreate the issue in the 'Leave a comment' field.
+    * Please be as specific as possible in order to allow for quick fixes.
+
 ## Authors
 
 LaKeshia Johnson, Jordan Berghofer, Tyler Barnett, Nora Moser
