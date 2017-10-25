@@ -3,6 +3,7 @@
 ## Verbs & Endpoints                    
 
 ### Employee Resources
+Example ```POST``` request:
 ```
  {
  "employee": {
@@ -21,6 +22,7 @@
 * ```DELETE``` /employees/:id
 
 ### Employee Type Resources
+Example ```POST``` request:
 ``` 
  {
  "employee_type": {
@@ -37,6 +39,7 @@
 * ```DELETE``` /employee_types/:id
 
 ### Training Programs Resources
+Example ```POST``` request:
 ```
  {
  "training_programs": {
@@ -54,6 +57,7 @@
 * ```DELETE``` /training_programs/:id
 
 ### Computer Resources
+Example ```POST``` request:
 ```
  {
  "computer": {
@@ -70,6 +74,7 @@
 * ```DELETE``` /computers/:id
 
 ### Department Resources
+Example ```POST``` request:
 ```
  {
  "department": {
@@ -87,6 +92,7 @@
 * ```DELETE``` /departments/:id
 
 ### Order Resources
+Example ```POST``` request:
 ```
  {
  "order": {
@@ -104,6 +110,7 @@
 * ```DELETE``` /orders/:id
 
 ### Product Resources
+Example ```POST``` request:
 ```
  {
  "product": {
@@ -124,6 +131,7 @@
 * ```DELETE``` /products/:id
 
 ### Product Type Resources
+Example ```POST``` request:
 ```
  {
  "product_type": {
@@ -139,6 +147,7 @@
 * ```DELETE``` /product_types/:id
 
 ### Payment Type Resources
+Example ```POST``` request:
 ```
  {
  "payment_type": {
@@ -156,6 +165,7 @@
 * ```DELETE``` /payment_types/:id
 
 ### Customer Resources
+Example ```POST``` request:
 ``` 
 {
  "customer": {
@@ -167,7 +177,6 @@
     }
  } 
  ```
- 
 * ```GET```    /customers            
 * ```POST```   /customers           
 * ```GET```    /customers/:id        
