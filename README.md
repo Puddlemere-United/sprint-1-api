@@ -25,7 +25,6 @@ How to run the api:
 5. Run rails db:migrate.
 6. Run rails server.
 7. Go to schema.rb and find path to add dummy data (this should be appended to the localhost url - ex: localhost:3000/orders).
-8. At this point you are on your own. 
 
 ### Endpoints
 To view all endpoints, [click here!](Endpoints.md)
@@ -50,6 +49,10 @@ To view all endpoints, [click here!](Endpoints.md)
  ```
  
  6. Click send
+ 
+## Contributions
+
+## Issue Reporting
 
 ## Authors
 
