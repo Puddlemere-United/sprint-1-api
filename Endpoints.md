@@ -2,23 +2,6 @@
 
 ## Verbs & Endpoints                    
 
-### Training Program Resources
-```
- {
- "training_programs": {
-    "start_date": "2017-09-15",
-    "max_occupancy": "100",
-    "end_date": "2017-09-30"
-	}
- }
-```
-* ```GET```    /employee_programs      
-* ```POST```   /employee_programs     
-* ```GET```    /employee_programs/:id  
-* ```PATCH```  /employee_programs/:id  
-* ```PUT```    /employee_programs/:id  
-* ```DELETE``` /employee_programs/:id
-
 ### Employee Resources
 ```
  {
