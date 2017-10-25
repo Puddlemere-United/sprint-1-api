@@ -16,6 +16,7 @@ These will be installed once you run bundle install.
 ### Installing
 
 How to run the api:
+
 1.Fork the repo.
 1.Open it in terminal and CD into the directory
 1.Clone repo
@@ -25,6 +26,8 @@ How to run the api:
 1.Go to schema.rb and find path to add dummy data (this should be appended to the localhost url - ex: localhost:3000/orders).
 1.At this point you are on your own. 
 
+### Endpoints
+To view all endpoints, [click here!](Endpoints.md)
 
 ## Authors
 
