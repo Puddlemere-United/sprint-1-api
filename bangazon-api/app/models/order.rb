@@ -4,3 +4,4 @@ class Order < ApplicationRecord
   belongs_to :customer
   belongs_to :payment_type
 end
+#we added has_many to make a many to one relationship with order_product.  This is enabling the foreign keys to be passed through to product and vice versa.  

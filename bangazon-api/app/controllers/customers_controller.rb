@@ -11,6 +11,7 @@ class CustomersController < ApplicationController
     #   end
     # render json: @customers
 
+    #if the active key is false, the where keyword will find all of the objects with the false value.  Else if the values are true, the where keyword will find all of the objects with the true value for the active key. Else will display all customers.
     if params['active'] == 'false'
 
       @false_customers = Customer.where(active: false)
