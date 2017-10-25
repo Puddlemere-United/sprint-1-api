@@ -1,6 +1,6 @@
 # Endpoints
 
-## Verbs & Endpoints                    
+### Verbs & Endpoints                    
 
 ### Employee Resources
 Example ```POST``` request:
