@@ -37,6 +37,7 @@ class TrainingProgramsController < ApplicationController
 
   # DELETE /training_programs/1
   def destroy
+    # this is saying that if the training program has started, deleting is not possible.  DateTime.now is the current date, to_date puts it in date form. If the program has started, the else will take affect with an alert blocking deletion.
     if @training_program.start_date <= DateTime.now.to_date
       @training_program.destroy
     else
