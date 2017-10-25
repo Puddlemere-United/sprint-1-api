@@ -29,6 +29,22 @@ How to run the api:
 ### Endpoints
 To view all endpoints, [click here!](Endpoints.md)
 
+### Adding sample data - (example: data for customer table)
+1. Go to Postman
+2. Select POST
+3. URL is localhost:3000/customers
+4. Click body, then raw, JSON 
+5. ```{
+ "customer": {
+    "first_name": "Lee",
+    "last_name": "Milton",
+    "stale": false,
+    "last_date_active": "10-11-2017",
+    "active": true
+    }
+ }```
+ 6. Click send
+
 ## Authors
 
 LaKeshia Johnson, Jordan Berghofer, Tyler Barnett, Nora Moser
@@ -36,3 +52,4 @@ LaKeshia Johnson, Jordan Berghofer, Tyler Barnett, Nora Moser
 ## Acknowledgments
 
 * Thank you to Casey Dailey and Jisie David
+
