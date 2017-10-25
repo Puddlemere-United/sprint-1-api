@@ -49,7 +49,14 @@ To view all endpoints, [click here](Endpoints.md)!
  
  6. Click send
  
-## Contributions
+## Contributing
+
+If you feel the need to contribute to this project, follow the steps below:
+
+1. Go to the repository (https://github.com/Puddlemere-United/sprint-1-api).
+1. Fork the repository to your github account.
+1. Clone the repository to your local directory.
+1. Finally follow the "Installation" steps above to get the API up and running.
 
 ## Issue Reporting
 
