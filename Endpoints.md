@@ -1,19 +1,19 @@
 ### Endpoints ###
 
-Verb           URI Pattern                       Controller#Action
+Verb           URI Pattern                    
             
-* ```GET```    /employee_computers     employee_computers#index
-* ```POST```   /employee_computers    employee_computers#create
-* ```GET```    /employee_computers/:id employee_computers#show
-* ```PATCH```  /employee_computers/:id employee_computers#update
-* ```PUT```    /employee_computers/:id employee_computers#update
-* ```DELETE``` /employee_computers/:id employee_computers#destroy
-* ```GET```    /employee_programs      employee_programs#index
-* ```POST```   /employee_programs     employee_programs#create
-* ```GET```    /employee_programs/:id  employee_programs#show
-* ```PATCH```  /employee_programs/:id  employee_programs#update
-* ```PUT```    /employee_programs/:id  employee_programs#update
-* ```DELETE``` /employee_programs/:id  employee_programs#destroy
+* ```GET```    /employee_computers
+* ```POST```   /employee_computers    
+* ```GET```    /employee_computers/:id 
+* ```PATCH```  /employee_computers/:id 
+* ```PUT```    /employee_computers/:id 
+* ```DELETE``` /employee_computers/:id 
+* ```GET```    /employee_programs      
+* ```POST```   /employee_programs     
+* ```GET```    /employee_programs/:id  
+* ```PATCH```  /employee_programs/:id  
+* ```PUT```    /employee_programs/:id  
+* ```DELETE``` /employee_programs/:id  
 * ```GET```    /employees             employees#index
 * ```POST```   /employees              employees#create
 * ```GET```    /employees/:id        employees#show
