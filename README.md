@@ -8,7 +8,11 @@ These instructions will get you a copy of our API up and running on your local m
 
 ### Prerequisites
 
-To run this api, you will need three gems: ```gem 'rails', '~> 5.1.4'```, ```gem 'sqlite3'```, and ```gem 'rack-cors', '>= 1.0.2'```. 
+To run this api, you will need three gems:
+
+    'rails', '~> 5.1.4'
+    'sqlite3'
+    'rack-cors', '>= 1.0.2'
 These will be installed once you run bundle install.
 
 * For windows users, you will need to install an additional gem: ```gem 'wdm', '>= 0.1.0'```
