@@ -1,5 +1,4 @@
-# Ruby API Build
-# First Sprint
+# Ruby API Build - First Sprint
 
 The purpose of the first sprint was to create a bangazon api. This api allows access to the company's inventory/internal database.
 
@@ -27,7 +26,7 @@ How to run the api:
 7. Go to schema.rb and find path to add dummy data (this should be appended to the localhost url - ex: localhost:3000/orders).
 
 ### Endpoints
-To view all endpoints, [click here!](Endpoints.md)
+To view all endpoints, [click here](Endpoints.md)!
 
 ### Adding sample data - (example: data for customer table)
 1. Go to Postman
