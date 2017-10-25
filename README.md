@@ -35,7 +35,10 @@ To view all endpoints, [click here!](Endpoints.md)
 2. Select POST
 3. URL is localhost:3000/customers
 4. Click body, then raw, JSON 
-5. ```{
+5. Paste in the below block into the body of the request:
+
+``` 
+{
  "customer": {
     "first_name": "Lee",
     "last_name": "Milton",
@@ -43,7 +46,9 @@ To view all endpoints, [click here!](Endpoints.md)
     "last_date_active": "10-11-2017",
     "active": true
     }
- }```
+ } 
+ ```
+ 
  6. Click send
 
 ## Authors
