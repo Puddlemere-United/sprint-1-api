@@ -26,7 +26,6 @@ Example ```POST``` request:
 ``` 
  {
  "employee_type": {
-    "employee_type_id": 2
     "employee_type": "Manager"
 	}
  }
@@ -78,7 +77,6 @@ Example ```POST``` request:
 ```
  {
  "department": {
-    "department_id": 03
     "expense_budget": 110000,
     "name": "Marketing"
 	}
