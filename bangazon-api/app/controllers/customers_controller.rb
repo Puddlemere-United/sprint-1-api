@@ -25,9 +25,6 @@ class CustomersController < ApplicationController
 
       # Person.where("administrator = 1").order("created_on DESC").find(1)
   
-
-
-    
   end
 
   # GET /customers/1
