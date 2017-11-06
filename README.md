@@ -55,7 +55,7 @@ To view all endpoints, [click here](Endpoints.md)!
  
 ## Contributing
 
-If you feel the need to contribute to this project, follow the steps below:
+To contribute to this project, follow the steps below:
 
 1. Go to the repository (https://github.com/Puddlemere-United/sprint-1-api).
 1. Fork the repository to your github account.
